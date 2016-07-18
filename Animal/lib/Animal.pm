@@ -1,7 +1,7 @@
 package Animal;
 
 use 5.006;
-use strict #fail
+use strict; #syntactic perl
 use warnings FATAL => 'all';
 
 =head1 NAME
