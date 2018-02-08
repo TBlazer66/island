@@ -26,7 +26,7 @@
 
 int main(int argc, char **argv)
 {
-	int system("geany above_g.c &"); 
+	int system("geany 1.above_g.c &"); 
 	return 0;
 }
 
